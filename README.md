@@ -1,2 +1,2 @@
 # TapasDojo
-Katas que he hecho en el TapasDojo con la gente de @AudienseCO
+Katas that I've made on the #TapasDojo with the people of @AudienseCo
